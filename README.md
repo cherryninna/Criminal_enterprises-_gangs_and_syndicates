@@ -6,7 +6,7 @@ Tutors:
 Mr. [Alexandre Dulaunoy](https://github.com/adulau) and Mr. [Christian Studer](https://github.com/chrisr3d)
 
 ## Context
-This is an academic project, part of the Master's university course **Threat intelligence** taught @ Université de Lorraine. With the help of our tutors, we chose a topic that highlights the names of the most influential criminals worldwide and their activities throughout the years. This repository contains the source code of a web scraper that analyses our target [Wikipedia page](https://en.wikipedia.org/wiki/List_of_criminal_enterprises,_gangs,_and_syndicates) and generates JSON objects.
+This is an academic project, part of the Master's university course **Threat intelligence** taught @ Université de Lorraine. With the help of our tutors, we chose a topic that highlights the names of some of the most influential criminals worldwide and their activities throughout the years. This repository contains the source code of a web scraper that analyses our target [Wikipedia page](https://en.wikipedia.org/wiki/List_of_criminal_enterprises,_gangs,_and_syndicates) and generates JSON objects.
 
 
 ## Purpose
